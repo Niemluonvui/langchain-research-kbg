@@ -19,3 +19,5 @@ os.environ["AZURE_OPENAI_ENDPOINT"] = "https://<your-endpoint.openai.azure.com/"
 os.environ["AZURE_OPENAI_API_KEY"] = "your AzureOpenAI key"
 
 2. Hugging face got alot models that required GPU (CUDA cores) and more external libraries
+
+3. Right now just tested the gpt2 from huggingface due to it easily to use and test the output
